@@ -11,4 +11,4 @@ My name is Artem and I'm a .NET developer from Saint-Petersburg, Russia.
 - <a href="https://github.com/AVLozhechkin/RainBot.Channel">**RainBot.Channel**</a> - is the next iteration of RainBot. The difference is that it publishes rain notifications in the Telegram channel. The technology stack is the same as in RainBot.
 - <a href="https://github.com/AVLozhechkin/CloudMusicPlayer">**CloudMusicPlayer**</a> - is a web application that allows you to listen to music from cloud services such as Google Drive, Dropbox and Yandex.Disk. The goal of the project is to improve my full stack ASP.NET Core + Angular + EF Core skills. It is currently in development.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AVLozhechkin&show_icons=true&locale=en&layout=compact" alt="test" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AVLozhechkin&show_icons=true&locale=en&layout=compact" alt="AVLozhechkin" />
